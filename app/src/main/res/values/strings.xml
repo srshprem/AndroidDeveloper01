@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies Stage One</string>
+    <string name="con_des_movie_poster">Movie Poster</string>
+    <string name="con_des_movie_poster_detail">Poster Detail</string>
+    <string name="detail_movie_title">Movie Title : </string>
+    <string name="detail_movie_plot">Plot Synopsis : </string>
+    <string name="detail_movie_rating">User Rating : </string>
+    <string name="menu_popularity">Popularity</string>
+    <string name="menu_rating">Rating</string>
+    <string name="detail_movie_release">Release Date : </string>
+</resources>
